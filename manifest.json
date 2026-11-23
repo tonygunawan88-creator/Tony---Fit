@@ -1,0 +1,15 @@
+{
+  "name": "Tony__Fit",
+  "short_name": "Tony Fit",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "Fit.png",
+      "sizes": "1024x1024",
+      "type": "image/png"
+    }
+  ]
+}
